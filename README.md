@@ -1,2 +1,2 @@
-# hopital-managment-system-in-python
-hospital managment system in python
+# hopital-managment-system-in-c++
+hospital managment system in c++
